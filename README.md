@@ -1,1 +1,1 @@
-# millguard_predictive_maintenance
+# MillGuard - Predictive Maintenance
