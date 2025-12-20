@@ -8,7 +8,7 @@ from src.models.train import train_model
 from src.models.evaluate import evaluate_model
 from src.interpretation.feature_importance import extract_feature_importance
 
-df = load_raw_data("data/millguard_raw.csv")
+df = load_raw_data("data/raw/millguard_raw.csv")
 df = clean_data(df)
 df = build_features(df)
 
