@@ -1,5 +1,5 @@
-# MillGuard - Predictive Maintenance
-## Dataset Features
+# MillGuard - Predictive Maintenances
+## Dataset Feature
 
 The dataset contains simulated production and condition-monitoring variables used for predictive maintenance modeling.
 
