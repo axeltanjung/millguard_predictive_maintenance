@@ -1,0 +1,11 @@
+version: "3.9"
+
+services:
+  millguard:
+    build: .
+    container_name: millguard_app
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./models:/app/models
+    restart: unless-stopped
